@@ -7,6 +7,10 @@ O objetivo do projeto é manipular uma arquivo PDF, retirando as tabelas e salv�
 
 --- 
 
+## Código
+
+Executar o comando npm i
+
 ## 🚀 Tecnologias utilizadas
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
